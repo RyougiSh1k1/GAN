@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+pizza/
+results_real_pizzza_train_1/
+
 
 # Distribution / packaging
 .Python
