@@ -11,7 +11,7 @@ cycle gan implementattion for live and pre recorded datasets
 activations
 
 # novel approach 1 
-cycle gan loss -ssim + 
+cycle gan loss -ssim + 1
 
 # novel approach 2 
 cyclegan loss + 0.01*mdf loss 
