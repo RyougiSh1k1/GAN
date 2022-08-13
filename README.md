@@ -1,12 +1,16 @@
 # ML536
+Variaous GAN implementations as part of Machine learning course - 535 at Rutgers 
 
-## Step1 :
+Detailed project reports are attached in the reports folder 
+
+
+## Vaniila GAN's :
 Vanilla Gan models for real and synthetic pizza domain
 
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/18380025/184508703-1964227a-7837-446e-a966-09f84e5ceb2a.png">
 
 
-## Pix2Pix:
+## Pix2Pix GAN's :
 Pix2Pix model implementation for dayton dataset
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/18380025/184508697-03f4925b-2a28-4994-a8fc-f6ea2f8008c1.png">
 
@@ -15,7 +19,7 @@ Pix2Pix model implementation for dayton dataset
 <img width="542" alt="image" src="https://user-images.githubusercontent.com/18380025/184508683-15151bf4-9ac3-460e-ba4c-ab518a871e99.png">
 
 
-## cyclegan 
+## CycleGan 
 cycle gan implementattion for live and pre recorded datasets 
 activations
 
@@ -25,7 +29,7 @@ activations
 
 
 # novel approach 1 
-cycle gan loss -ssim + 1
+**cycle gan loss -ssim + 1
 
 <img width="488" alt="image" src="https://user-images.githubusercontent.com/18380025/184508738-7a638056-b218-4697-9721-7c060e4b814c.png">
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/18380025/184508744-99f7d5fb-4fa8-47ce-843b-f00d35630169.png">
@@ -35,8 +39,8 @@ cycle gan loss -ssim + 1
 
 
 # novel approach 2 
-cyclegan loss + 0.01*mdf loss 
-
+**cyclegan loss + 0.01*mdf loss 
+**
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/18380025/184508760-0ba403b9-9976-4003-9bec-a7c74835cb9b.png">
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/18380025/184508768-c22d784c-b4ae-4208-b893-f068a149999a.png">
 
